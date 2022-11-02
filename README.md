@@ -1,4 +1,4 @@
-<img src="https://github.com/xentenza/bluenote/blob/master/bluenote-banner.jpg" alt="Blue Note data visualization" width="" align="center">
+<img src="https://raw.githubusercontent.com/xentenza/bluenote/main/bluenote-banner.jpg" alt="Blue Note data visualization" width="" align="center">
 
 # Visualiser un réseau d’instrumentistes au sein d’un label: l’exemple Blue Note (1939 - 2007)
 
