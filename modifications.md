@@ -28,6 +28,16 @@
 * Pete (Laroca) Sims -> Pete La Roca
 * The Reverend Al Green -> Al Green
 * Magik Malik -> Malik Mezzadri
+* Daru -> Daru Oda (Blue Note – 7243 4 90427 9 7)
+* Alphonze Mouzon -> Alphonse Mouzon (Blue Note BN-LA059-F)
+* Barry Rodgers -> Barry Rogers (Blue Note BN-LA701-G)
+* Benjamin F. Brown -> Benjamin Brown (Blue Note B2 7243 8 28974 2 2)
+* Cafe -> Café
+* Curley Russell -> Curly Russell
+* Cyro Baptiste -> Cyro Baptista
+* Ollie Brown -> Ollie E. Brown
+* Sam Kinninger -> Sam Kininger
+* Tim Reis -> Tim Ries
 
 ## Noms rétirés délibément
 * Gil' Fuller, arranger
