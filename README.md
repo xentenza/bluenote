@@ -13,7 +13,9 @@ The initial objective of this work was to verify, with the help of visualisation
 
 ## Interactive map
 
-Explore the Blue Note musician network with an [online version](https://#), created with [sigma.js](https://github.com/jacomyal/sigma.js).
+<a href="https://xentenza.github.io/bluenote/network/"><img src="https://xentenza.github.io/bluenote/network/" alt="Blue Note interactive network" width="" align="center"></a>
+
+Explore the Blue Note musician network with an [online version](https://xentenza.github.io/bluenote/network/), created with [sigma.js](https://github.com/jacomyal/sigma.js).
 
 ### Files
 
