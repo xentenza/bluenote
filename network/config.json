@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "https://raw.githubusercontent.com/xentenza/bluenote/main/images/bluenote-records-logo.png",
+    "link": "",
+    "text": "© Blue Note Records"
+  },
+  "text": {
+    "more": "Blue Note Records (1939 - 2007)",
+    "intro": "\u003cp\u003eNetwork Visualization of jazz musicians: Blue Note Records (1939 - 2007).\u003c/p\u003e\n\u003cp\u003e&nbsp;\u003c/p\u003e\n\u003cp\u003eFiles (nodes \u0026 edges) available on \u003ca href\u003d\"https://github.com/xentenza/bluenote\"\u003eGitHub\u003c/a\u003e\u003c/p\u003e",
+    "title": "Blue Note Records (1939 - 2007)"
+  },
+  "legend": {
+    "edgeLabel": "Tracks recorded together",
+    "colorLabel": "Modularity",
+    "nodeLabel": "Musician"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Modularity Class",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 7,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
