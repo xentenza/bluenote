@@ -1,3 +1,5 @@
+
+
 <img src="https://raw.githubusercontent.com/xentenza/bluenote/main/images/bluenote-banner.jpg" alt="Blue Note data visualization" width="" align="center">
 
 # Network Visualization of jazz musicians: Blue Note Records (1939 - 2007)
@@ -22,3 +24,5 @@ Explore the Blue Note musician network with an [online version](https://xentenza
 * Raw data: [bn-data.csv](https://github.com/xentenza/bluenote/blob/main/bn-data.csv)
 * Edges: [edges.csv](https://github.com/xentenza/bluenote/blob/master/edges.csv)
 * Nodes: [nodes.csv](https://github.com/xentenza/bluenote/blob/master/nodes.csv)
+
+The `nodes.csv` and `edges.csv` files are generated from `bn-data.csv` by `bluenote.py`.
